@@ -160,7 +160,7 @@ def main(api_endpoint, credentials,
     # Telegram
     """Run the bot."""
     # Telegram Bot Authorization Token
-    updater = Updater(token='YOUR_TOKEN')
+    updater = Updater(token='1494142703:AAE_AHFuCvzZgNGf5-x7c8mHZQupiZltTk8')
 
     # Load OAuth 2.0 credentials.
     try:
